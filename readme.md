@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [MV3 Tecnologia](https://www.linkedin.com/company/mv3tecnologia/mycompany/)
-- 🌱 I’m currently learning **Websockets in NextJS**
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-- 💬 Ask me about **TypeScript, React, Nest, Next, Python, Django and DRF.**
-- 📫 How to reach me **course.gabrielaug@gmail.com**
-- ⚡ Fun fact **I don't have any idea to create my portfolio**
+- 🌱 I’m currently learning **Projects with local MultiModels & LLMs**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/augustos0204)
+- 💬 Ask me about **TypeScript, React, Nest, Next, Python, Django, DRF and More.**
+- 📫 How to reach me **course.gabrielaug@gmail.com** or **gabriel.santos@hotmail.com**
+- ⚡ Fun fact **I don't have any idea to create my portfolio (now i have a idea!)**
 
 
 ## 🌐 Socials:
