@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/augustos0204)
 - 💬 Ask me about **TypeScript, React, Nest, Next, Python, Django, DRF and More.**
 - 📫 How to reach me **course.gabrielaug@gmail.com** or **gabriel.santos@hotmail.com**
-- ⚡ Fun fact **I don't have any idea to create my portfolio (now i have a idea!)**
+- ⚡ Fun fact **I don't have any idea to create my [Portfolio](https://augustos0204.github.io/augustos0204/) (now i have a idea!)**
 
 
 ## 🌐 Socials:
