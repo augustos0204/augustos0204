@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils";
-import { Github, Linkedin } from "lucide-react";
+import { Github, Instagram, Linkedin } from "lucide-react";
 import Link from "next/link";
 
 export const socialButtons = [
@@ -42,5 +42,26 @@ export const socialButtons = [
             />
         </Link>
         )
-    }
+    },
+    {
+        name: 'Instagran',
+        component: () => (
+        <Link href="https://www.instagram.com/hallsdev_/" target="_blank" className={cn(
+            "w-12 h-12 border-2 border-black rounded-md cursor-pointer",
+            "flex flex-row items-center justify-center transition-all",
+            "bg-zinc-900 hover:border-transparent hover:shadow-lg hover:shadow-red-500 group",
+            "hover:bg-transparent hover:bg-gradient-to-br hover:from-red-500 to-pink-700"
+        )}>
+            <Instagram
+            absoluteStrokeWidth
+            size={30}
+            strokeWidth={2}
+            className={cn(
+                "text-pink-500 transition-all",
+                "hover:text-white group-hover:text-white"
+            )}
+            />
+        </Link>
+        )
+    },
 ];
