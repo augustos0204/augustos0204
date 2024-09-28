@@ -60,6 +60,9 @@ const config: Config = {
 			fontFamily: {
 				poppins: ['var(--font-poppins)']
 			},
+			backgroundImage: {
+				'noise-texture-animated': "url('../../src/assets/images/noise.gif')",
+			}
 			// textShadow: {
 			// 	sm: '0 1px 2px var(--tw-shadow-color)',
 			// 	md: '0 2px 4px var(--tw-shadow-color)',
