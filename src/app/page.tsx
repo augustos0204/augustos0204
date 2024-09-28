@@ -18,8 +18,14 @@ export default function Home() {
         <div className="w-full h-[90%] border-2 border-black rounded-lg bg-zinc-900 shadow-black shadow-sm relative overflow-hidden">
           <div className={cn(
             "w-full h-full bg-black absolute transition-all",
-            !screenState ? "opacity-100" : "opacity-0"
-          )}/>
+            !screenState ? "opacity-100" : "opacity-0",
+            "flex flex-row items-center justify-center"
+          )}>
+            <div className={cn(
+              "text-9xl font-poppins font-bold text select-none",
+              "bg-clip-text text-transparent bg-noise-texture-animated bg-no-repeat bg-cover",
+            )}>Unavailable Temporary...</div>
+          </div>
         </div>
         <div className="w-full h-[10%] py-3 flex flex-row justify-between">
           <div className="space-x-3 flex flex-row">
