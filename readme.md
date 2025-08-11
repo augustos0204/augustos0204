@@ -2,11 +2,11 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [MV3 Tecnologia](https://www.linkedin.com/company/mv3tecnologia/mycompany/)
+- 🔭 I’m currently working on [G4 Education](https://www.linkedin.com/school/g4educacao)
 - 🌱 I’m currently learning **Projects with local MultiModels & LLMs**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/augustos0204)
 - 💬 Ask me about **TypeScript, React, Nest, Next, Python, Django, DRF and More.**
-- 📫 How to reach me **course.gabrielaug@gmail.com** or **gabriel.santos@hotmail.com**
+- 📫 How to reach me **course.gabrielaug@gmail.com** or **gabriel.augsantos@hotmail.com**
 - ⚡ Fun fact **I don't have any idea to create my [Portfolio](https://augustos0204.github.io/augustos0204/) (now i have a idea!)**
 
 
