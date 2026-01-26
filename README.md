@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React, Python, and Data Science**
 - 💻 I work as a Software Engineer at [G4 Educação](https://g4educacao.com/)
 - 🛠️ My tech stack covers various languages, frameworks, databases, and tools (see details below!)
-- 📫 How to reach me: [course.gabrielaug@gmail.com](mailto:course.gabrielaug@gmail.com)
+- 📫 How to reach me: [g.a.santos.dev@gmail.com](mailto:g.a.santos.dev@gmail.com)
 - 😄 Fun fact: I love hackathons, and I'm a huge fan of parmegiana!
 
 ---
